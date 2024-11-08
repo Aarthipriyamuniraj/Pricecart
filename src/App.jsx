@@ -68,6 +68,27 @@ function App() {
     boolsubdomin:true,
     boolReports:true,
     boolbtn:true,
+  },
+  {
+    title:"PRO",
+    price:"$39/month",
+    user:"Ultimate Sense User",
+    storge:"500GB Storage",
+    project:"Unlimited Public Projects",
+    Community:"Community Access",
+    privateproject:"Unlimited Private Project",
+    support:"Dedicated Phone Support",
+    subdomin:"Free Subdomain",
+    Reports:"Monthly Staus Reports",
+    booluser:true,
+    boolstorge:true,
+    boolproject:true,
+    boolCommunity:true,
+    boolprivate:true,
+    boolsupport:true,
+    boolsubdomin:true,
+    boolReports:true,
+    boolbtn:true,
   }
 ];
 
